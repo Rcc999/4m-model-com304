@@ -1,0 +1,12 @@
+Pillow
+numpy
+torch
+torchvision
+tokenizers
+matplotlib
+opencv-python
+ipython
+jupyter
+fourm @ git+https://github.com/apple/ml-4m.git
+einops
+tqdm
