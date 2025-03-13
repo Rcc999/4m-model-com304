@@ -10,3 +10,4 @@ jupyter
 fourm @ git+https://github.com/apple/ml-4m.git
 einops
 tqdm
+decord 
